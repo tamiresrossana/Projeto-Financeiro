@@ -1,16 +1,16 @@
-📌 Descrição
+<h1>📌 Descrição<br>
 O Controle de Gastos Pessoais é uma aplicação web desenvolvida em PHP, com o objetivo de auxiliar no gerenciamento financeiro pessoal.
 O sistema permite o cadastro de receitas e despesas, organização por categoria, consulta de movimentações e acompanhamento do saldo financeiro, proporcionando uma visão clara da situação financeira do usuário.
 O projeto foi desenvolvido com foco educacional, aplicando conceitos de PHP estruturado / orientado a objetos, integração com banco de dados e boas práticas de desenvolvimento web.
 <hr>
-🎯 Objetivos do Projeto<br>
+<h1>🎯 Objetivos do Projeto<br>
 ✔️ Controlar receitas e despesas financeiras;<br>
 ✔️ Organizar gastos por categoria e data;<br>
 ✔️ Acompanhar o saldo financeiro;<br>
 ✔️ Aplicar conceitos de PHP e banco de dados;<br>
 ✔️ Praticar o uso do Git e Git.<br>
 <hr>
-⚙️ Funcionalidades<br>
+<h1>⚙️ Funcionalidades<br></h1>
 ✔️ Cadastro de receitas;<br>
 ✔️ Cadastro de despesas;<br>
 ✔️ Listagem de movimentações financeiras;<br>
@@ -19,7 +19,7 @@ O projeto foi desenvolvido com foco educacional, aplicando conceitos de PHP estr
 ✔️ Organização por categoria;<br>
 ✔️ Validações básicas de formulário.<br>
 <hr>
-🛠️ Tecnologias Utilizadas<br>
+<h1>🛠️ Tecnologias Utilizadas<br></h1>
 🐘 PHP;<br>
 🐬 MySQL;<br>
 🟥 HTML5;<br>
@@ -28,7 +28,7 @@ O projeto foi desenvolvido com foco educacional, aplicando conceitos de PHP estr
 🟨 JavaScript;<br>
 🖥️ Apache (XAMPP/WAMP)<br>
 <hr>
-📚 Conceitos Aplicados<br>
+<h1>📚 Conceitos Aplicados<br></h1>
 ✔️ PHP Orientado a Objetos;<br>
 ✔️ DAO (Data Access Object);<br>
 ✔️ Conexão com MySQL (PDO ou MySQLi);<br>
@@ -36,6 +36,6 @@ O projeto foi desenvolvido com foco educacional, aplicando conceitos de PHP estr
 ✔️Organização em camadas (MVC simplificado);<br>
 ✔️ Controle de versão com Git.<br>
 <hr>
-👩‍💻 Autora<br>
+<h1>👩‍💻 Autora<br></h1>
 Tamires Rossana Gameleira de Souza<br>
 📎 Projeto desenvolvido para fins acadêmicos e de aprendizado em PHP.
