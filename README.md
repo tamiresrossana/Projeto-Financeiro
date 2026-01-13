@@ -11,13 +11,13 @@ O projeto foi desenvolvido com foco educacional, aplicando conceitos de PHP estr
 ✔️ Praticar o uso do Git e Git.<br>
 <hr>
 ⚙️ Funcionalidades<br>
-✅ Cadastro de receitas;<br>
-✅ Cadastro de despesas;<br>
-✅ Listagem de movimentações financeiras;<br>
-✅ Filtro por período;<br>
-✅ Visualização do saldo;<br>
-✅ Organização por categoria;<br>
-✅ Validações básicas de formulário.<br>
+✔️ Cadastro de receitas;<br>
+✔️ Cadastro de despesas;<br>
+✔️ Listagem de movimentações financeiras;<br>
+✔️ Filtro por período;<br>
+✔️ Visualização do saldo;<br>
+✔️ Organização por categoria;<br>
+✔️ Validações básicas de formulário.<br>
 <hr>
 🛠️ Tecnologias Utilizadas<br>
 🐘 PHP;<br>
@@ -29,12 +29,12 @@ O projeto foi desenvolvido com foco educacional, aplicando conceitos de PHP estr
 🖥️ Apache (XAMPP/WAMP)<br>
 <hr>
 📚 Conceitos Aplicados<br>
-PHP Orientado a Objetos;<br>
-DAO (Data Access Object);<br>
-Conexão com MySQL (PDO ou MySQLi);<br>
-Validação de formulários;<br>
-Organização em camadas (MVC simplificado);<br>
-Controle de versão com Git.<br>
+✔️ PHP Orientado a Objetos;<br>
+✔️ DAO (Data Access Object);<br>
+✔️ Conexão com MySQL (PDO ou MySQLi);<br>
+✔️ Validação de formulários;<br>
+✔️Organização em camadas (MVC simplificado);<br>
+✔️ Controle de versão com Git.<br>
 <hr>
 👩‍💻 Autora<br>
 Tamires Rossana Gameleira de Souza<br>
