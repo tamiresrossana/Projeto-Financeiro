@@ -4,10 +4,10 @@ O sistema permite o cadastro de receitas e despesas, organização por categoria
 O projeto foi desenvolvido com foco educacional, aplicando conceitos de PHP estruturado / orientado a objetos, integração com banco de dados e boas práticas de desenvolvimento web.
 
 🎯 Objetivos do Projeto
-✔️ Controlar receitas e despesas financeiras;
-✔️ Organizar gastos por categoria e data;
-✔️ Acompanhar o saldo financeiro;
-✔️ Aplicar conceitos de PHP e banco de dados;
+✔️ Controlar receitas e despesas financeiras;<br>
+✔️ Organizar gastos por categoria e data;<br>
+✔️ Acompanhar o saldo financeiro;<br>
+✔️ Aplicar conceitos de PHP e banco de dados;<br>
 ✔️ Praticar o uso do Git e Git.
 
 ⚙️ Funcionalidades
